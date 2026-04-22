@@ -14,7 +14,7 @@
 
 ---
 
-I’m pursuing an MS in Software Engineering at Arizona State University (Data Science specialization). I build scalable, user-focused products with strong product intuition and analytical depth.
+I’m pursuing an MS in Software Engineering at Arizona State University (Data Science specialization) with a 4.0 GPA. I build scalable, user-focused products with strong product intuition and analytical depth.
 
 I build with OpenAI, Claude, and LLM-powered workflows to prototype faster, refine systems, and ship thoughtfully designed products. I’m particularly interested in agentic AI systems and intelligent automation.
 
